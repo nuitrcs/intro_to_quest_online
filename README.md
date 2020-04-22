@@ -9,7 +9,7 @@ Mac users: https://kb.northwestern.edu/macvpn
 
 Windows users: https://kb.northwestern.edu/windowsvpn
 
-The interactive parts of this workshop will ask you to type in the commands found in the Command Script document in this repo.
+The interactive parts of this workshop will ask you to type in the commands found in the Command Script document, which you may want to have available for reference: https://github.com/nuitrcs/intro_to_quest_online/blob/master/command_script.md
 
 If you are not a member of an allocation on Quest you can learn about joining an allocation or apply for one here:
 
