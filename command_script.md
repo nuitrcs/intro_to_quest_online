@@ -1,4 +1,4 @@
-** SCRIPT OF COMMANDS **
+# SCRIPT OF COMMANDS 
 
 ## Part 1
 whoami
@@ -12,13 +12,13 @@ cd quest_intro
 pwd
 cp /projects/intro/job-script.sh .
 
-Part 2
+## Part 2
 more job-script.sh  
 	what does it do once it gets on the node?
 module avail
 module avail python
 
-Part 3
+## Part 3
 nano job-script.sh
 	control-x to exit
 more job-script.sh
